@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/E-Commerce/static/css/main.e6c13ad2.css",
+    "main.js": "/E-Commerce/static/js/main.6231abf4.js",
+    "static/media/banner.jpg": "/E-Commerce/static/media/banner.115620737184458352e9.jpg",
+    "static/media/mobilebanner copy.jpg": "/E-Commerce/static/media/mobilebanner copy.115620737184458352e9.jpg",
+    "static/media/amazon_logo.png": "/E-Commerce/static/media/amazon_logo.23c1108965cfff19cc04.png",
+    "static/media/amazon_logo1.png": "/E-Commerce/static/media/amazon_logo1.79a1dd45e47017ffa5da.png",
+    "index.html": "/E-Commerce/index.html",
+    "main.e6c13ad2.css.map": "/E-Commerce/static/css/main.e6c13ad2.css.map",
+    "main.6231abf4.js.map": "/E-Commerce/static/js/main.6231abf4.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.6231abf4.js"
+  ]
+}
